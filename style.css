@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tempContainer{
+    padding: 15px 15px 0px 15px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 20px black;
+}
